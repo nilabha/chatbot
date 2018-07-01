@@ -1,0 +1,47 @@
+{
+  "max_histories": [
+    5,
+    5
+  ],
+  "action_fingerprints": {
+    "utter_informb": {
+      "slots": []
+    },
+    "utter_goodbye": {
+      "slots": []
+    },
+    "utter_informh": {
+      "slots": []
+    },
+    "utter_informf": {
+      "slots": []
+    },
+    "utter_informd": {
+      "slots": []
+    },
+    "utter_informc": {
+      "slots": []
+    },
+    "action_listen": {
+      "slots": []
+    },
+    "utter_informi": {
+      "slots": []
+    },
+    "utter_informa": {
+      "slots": []
+    },
+    "utter_informg": {
+      "slots": []
+    },
+    "utter_informe": {
+      "slots": []
+    }
+  },
+  "rasa_core": "0.9.6",
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.keras_policy.KerasPolicy"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "states": [
+    "intent_greet",
+    "intent_goodbye",
+    "intent_informa",
+    "intent_informb",
+    "intent_informc",
+    "intent_informd",
+    "intent_informe",
+    "intent_informf",
+    "intent_informg",
+    "intent_informh",
+    "intent_informi",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_utter_greet",
+    "prev_utter_goodbye",
+    "prev_utter_informa",
+    "prev_utter_informb",
+    "prev_utter_informc",
+    "prev_utter_informd",
+    "prev_utter_informe",
+    "prev_utter_informf",
+    "prev_utter_informg",
+    "prev_utter_informh",
+    "prev_utter_informi"
+  ]
+}

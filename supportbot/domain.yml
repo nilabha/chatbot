@@ -1,0 +1,66 @@
+intents:
+  - greet
+  - goodbye
+  - informa
+  - informb
+  - informc
+  - informd
+  - informe
+  - informf
+  - informg
+  - informh
+  - informi
+  
+actions:
+- utter_greet
+- utter_goodbye
+- utter_informa
+- utter_informb
+- utter_informc
+- utter_informd
+- utter_informe
+- utter_informf
+- utter_informg
+- utter_informh
+- utter_informi
+
+templates:
+  utter_greet:
+  - text: "Hi Welcome. Kindly tell us your problem?"
+
+  utter_informa:
+  - text: "Login server was down. It is up now. Please check."
+
+  utter_informb:
+  - text: "Go to URL : password.reset.com, Enter you login id, enter password received, reset the password"
+
+  utter_informc:
+  - text: "Unlocked the account and new password is sent to your email id."
+
+  utter_informd:
+  - text: "Go to URL : accountsetup.com, Enter personal details along with user id, enter OTP received, click finish. Check email for details."
+
+  utter_informe:
+  - text: "First, connect a network cable to your laptop to the red port on your workstation. Run ipconfig /all on your command prompt. Share WiFi Mac or Hardware address to the IT team. IT team then adds your MAC ID to enable WiFi access"
+
+  utter_informf:
+  - text: "Microsoft Internet Explorer users can go to 'Tools' (or the little cog icon in the top left), then go to 'Safety' and choose 'Delete browsing history...', you can then choose to delete your Internet cookies. In Google Chrome, go to 'More Tools' and choose 'Clear browsing data...'. Firefox users can go to 'History', then choose 'Clear recent history...'."
+
+  utter_informg:
+  - text: "Verify that your computer is able to see the Internet and/or other computers to ensure that your computer is not encountering a connection issue, which would be causing your e-mail issue. Ensure that your Internet e-mail server or your Network e-mail server is not encountering issues by contacting either your Internet Service Provider or your Network administrator."
+
+  utter_informh:
+  - text: "First check the computer's power cord to make sure it is completely plugged into the wall socket. If you are using a plug strip, make sure it is completely plugged into the wall socket and that the power switch on the plug strip is turned on. Some plug strips also have a built in circuit breaker which usually looks like a black or red button near the power switch. Press the button to reset it and see if that solves the problem."
+
+  utter_informi:
+  - text: "To place the volume icon in the system tray in the lower right of the desktop:
+    Place the mouse arrow on the Start button in the lower left corner.
+    Left mouse-click on Settings.
+    Left mouse-click on the Control Panel
+    Place the mouse arrow on the Multimedia icon . 
+    (In Windows XP, look for the Sounds and Audio Devices icon .) 
+    Double-left mouse click.
+    Left mouse-click on the Audio file tab."
+  
+  utter_goodbye:
+  - text: "Bye"
