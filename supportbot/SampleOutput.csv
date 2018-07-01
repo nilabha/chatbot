@@ -1,0 +1,32 @@
+Question,Answers
+Login Page is not getting displayed,Login server was down. It is up now. Please check.
+Login Page Down,Login server was down. It is up now. Please check.
+Login Page not opening,Login server was down. It is up now. Please check.
+Login Page is not showing up.,Login server was down. It is up now. Please check.
+Login credetials are not working.,"Go to URL : password.reset.com, Enter you login id, enter password received, reset the password"
+"Forgot the password, can you please reset the password for me.","Go to URL : password.reset.com, Enter you login id, enter password received, reset the password"
+Password expired.,"Go to URL : password.reset.com, Enter you login id, enter password received, reset the password"
+FW: Myspace Login Issue,"Go to URL : password.reset.com, Enter you login id, enter password received, reset the password"
+Please reset mypassword.It is expired.,"Go to URL : password.reset.com, Enter you login id, enter password received, reset the password"
+"Account got locked, because of 3 wrong attempts os password. Could you please reset the password",Unlocked the account and new password is sent to your email id.
+Account locked. Not able to login,Unlocked the account and new password is sent to your email id.
+Create new account and share the username and password,"Go to URL : accountsetup.com, Enter personal details along with user id, enter OTP received, click finish. Check email for details."
+New Account is needed for a new joinee.,"Go to URL : accountsetup.com, Enter personal details along with user id, enter OTP received, click finish. Check email for details."
+New Account Creation for user Tom.,"Go to URL : accountsetup.com, Enter personal details along with user id, enter OTP received, click finish. Check email for details."
+Needs permission wifi access to laptop,"First, connect a network cable to your laptop to the red port on your workstation. Run ipconfig /all on your command prompt. Share WiFi Mac or Hardware address to the IT team. IT team then adds your MAC ID to enable WiFi access"
+Wifi access needed.,"First, connect a network cable to your laptop to the red port on your workstation. Run ipconfig /all on your command prompt. Share WiFi Mac or Hardware address to the IT team. IT team then adds your MAC ID to enable WiFi access"
+Need to connect to Wifi.,"First, connect a network cable to your laptop to the red port on your workstation. Run ipconfig /all on your command prompt. Share WiFi Mac or Hardware address to the IT team. IT team then adds your MAC ID to enable WiFi access"
+Unable to connect to Internet,"First, connect a network cable to your laptop to the red port on your workstation. Run ipconfig /all on your command prompt. Share WiFi Mac or Hardware address to the IT team. IT team then adds your MAC ID to enable WiFi access"
+How can I Delete Internet Cookies,"Microsoft Internet Explorer users can go to 'Tools' (or the little cog icon in the top left), then go to 'Safety' and choose 'Delete browsing history...', you can then choose to delete your Internet cookies. In Google Chrome, go to 'More Tools' and choose 'Clear browsing data...'. Firefox users can go to 'History', then choose 'Clear recent history...'."
+Not able to send and receive emails,"Verify that your computer is able to see the Internet and/or other computers to ensure that your computer is not encountering a connection issue, which would be causing your e-mail issue. Ensure that your Internet e-mail server or your Network e-mail server is not encountering issues by contacting either your Internet Service Provider or your Network administrator."
+Computer is not getting switched on,"First check the computer's power cord to make sure it is completely plugged into the wall socket. If you are using a plug strip, make sure it is completely plugged into the wall socket and that the power switch on the plug strip is turned on. Some plug strips also have a built in circuit breaker which usually looks like a black or red button near the power switch. Press the button to reset it and see if that solves the problem."
+Computer not powering up,"First check the computer's power cord to make sure it is completely plugged into the wall socket. If you are using a plug strip, make sure it is completely plugged into the wall socket and that the power switch on the plug strip is turned on. Some plug strips also have a built in circuit breaker which usually looks like a black or red button near the power switch. Press the button to reset it and see if that solves the problem."
+Volume Icon is not showing in right corner,"To place the volume icon in the system tray in the lower right of the desktop:
+Place the mouse arrow on the Start button in the lower left corner.
+Left mouse-click on Settings.
+Left mouse-click on the Control Panel
+Place the mouse arrow on the Multimedia icon . 
+(In Windows XP, look for the Sounds and Audio Devices icon .) 
+Double-left mouse click.
+Left mouse-click on the Audio file tab.
+"
