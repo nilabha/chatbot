@@ -1,0 +1,248 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "hey",
+        "intent": "greet"
+      },
+      {
+        "text": "hello",
+        "intent": "greet"
+      },
+      {
+        "text": "hi",
+        "intent": "greet"
+      },
+      {
+        "text": "hello there",
+        "intent": "greet"
+      },
+      {
+        "text": "good morning",
+        "intent": "greet"
+      },
+      {
+        "text": "good evening",
+        "intent": "greet"
+      },
+      {
+        "text": "moin",
+        "intent": "greet"
+      },
+      {
+        "text": "hey there",
+        "intent": "greet"
+      },
+      {
+        "text": "let's go",
+        "intent": "greet"
+      },
+      {
+        "text": "hey dude",
+        "intent": "greet"
+      },
+      {
+        "text": "goodmorning",
+        "intent": "greet"
+      },
+      {
+        "text": "goodevening",
+        "intent": "greet"
+      },
+      {
+        "text": "good afternoon",
+        "intent": "greet"
+      },
+      {
+        "text": "cu",
+        "intent": "goodbye"
+      },
+      {
+        "text": "good by",
+        "intent": "goodbye"
+      },
+      {
+        "text": "cee you later",
+        "intent": "goodbye"
+      },
+      {
+        "text": "good night",
+        "intent": "goodbye"
+      },
+      {
+        "text": "good afternoon",
+        "intent": "goodbye"
+      },
+      {
+        "text": "bye",
+        "intent": "goodbye"
+      },
+      {
+        "text": "goodbye",
+        "intent": "goodbye"
+      },
+      {
+        "text": "have a nice day",
+        "intent": "goodbye"
+      },
+      {
+        "text": "see you around",
+        "intent": "goodbye"
+      },
+      {
+        "text": "bye bye",
+        "intent": "goodbye"
+      },
+      {
+        "text": "see you later",
+        "intent": "goodbye"
+      },
+      {
+        "text": "server#11 got hanged and needed a restart",
+        "intent": "informa"
+      },
+      {
+        "text": "Login Page not opening",
+        "intent": "informa"
+      },
+      {
+        "text": "My Space QA application is down",
+        "intent": "informa"
+      },
+      {
+        "text": "Login Page is not getting displayed",
+        "intent": "informa"
+      },
+      {
+        "text": "MySpace Password Expiry",
+        "intent": "informb"
+      },
+      {
+        "text": "Login credentials are not working.",
+        "intent": "informb"
+      },
+      {
+        "text": "Forgot the password, can you please reset the password for me.",
+        "intent": "informb"
+      },
+      {
+        "text": "Password expired.",
+        "intent": "informb"
+      },
+      {
+        "text": "FW: Myspace Login Issue-- Ania",
+        "intent": "informb"
+      },
+      {
+        "text": "Login credentials are not working, says username or password wrong.",
+        "intent": "informc"
+      },
+      {
+        "text": "Account got locked, because of 3 wrong attempts os password. Could you please reset the password",
+        "intent": "informc"
+      },
+      {
+        "text": "Request to create login credentials for Mr. Koti",
+        "intent": "informc"
+      },
+      {
+        "text": "Account locked. Not able to login",
+        "intent": "informc"
+      },
+      {
+        "text": "Request to create login credentials for Dr. Hasan",
+        "intent": "informc"
+      },
+      {
+        "text": "Re: Unable to access outlook and myspace [user id: sdash]",
+        "intent": "informc"
+      },
+      {
+        "text": "Linux VM for Azuba project",
+        "intent": "informc"
+      },
+      {
+        "text": "Create new account and share the username and password",
+        "intent": "informd"
+      },
+      {
+        "text": "New Account is needed for a new joinee.",
+        "intent": "informd"
+      },
+      {
+        "text": "Wifi access needed.",
+        "intent": "informe"
+      },
+      {
+        "text": "My Internet is not working",
+        "intent": "informe"
+      },
+      {
+        "text": "Need Ethernet access",
+        "intent": "informe"
+      },
+      {
+        "text": "Facing network/internet issue with wifi xwq090",
+        "intent": "informe"
+      },
+      {
+        "text": "Unable to connect to internet using wifi network inn009",
+        "intent": "informe"
+      },
+      {
+        "text": "Needs permission wifi access to laptop",
+        "intent": "informe"
+      },
+      {
+        "text": "LAN not working in a VM",
+        "intent": "informe"
+      },
+      {
+        "text": "Unable to connect to Internet",
+        "intent": "informe"
+      },
+      {
+        "text": "How do I delete Internet cookies?",
+        "intent": "informf"
+      },
+      {
+        "text": "I am unable to send or receive email?",
+        "intent": "informg"
+      },
+      {
+        "text": "Computer is not getting switched on",
+        "intent": "informh"
+      },
+      {
+        "text": "My Computer doesn?t power up",
+        "intent": "informh"
+      },
+      {
+        "text": "System behaving strangely, blue screen is appearing in middle",
+        "intent": "informh"
+      },
+      {
+        "text": "Desktop not working",
+        "intent": "informh"
+      },
+      {
+        "text": "System showing blue screen on startup",
+        "intent": "informh"
+      },
+      {
+        "text": "System hangs with blue screen on startup",
+        "intent": "informh"
+      },
+      {
+        "text": "No sound is heard from audio (music) CDs",
+        "intent": "informi"
+      },
+      {
+        "text": "The computer has no sound",
+        "intent": "informi"
+      }
+    ],
+    "entity_synonyms": [],
+    "regex_features": []
+  }
+}

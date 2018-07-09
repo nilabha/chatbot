@@ -1,0 +1,46 @@
+{
+    "pipeline": [
+        {
+            "featurizer_file": "intent_featurizer_count_vectors.pkl",
+            "max_ngram": 1,
+            "stop_words": null,
+            "class": "rasa_nlu.featurizers.count_vectors_featurizer.CountVectorsFeaturizer",
+            "name": "intent_featurizer_count_vectors",
+            "max_features": null,
+            "strip_accents": null,
+            "token_pattern": "(?u)\\b\\w\\w+\\b",
+            "min_ngram": 1,
+            "max_df": 1.0,
+            "min_df": 1
+        },
+        {
+            "hidden_layer_size_a": [
+                256,
+                128
+            ],
+            "epochs": 300,
+            "hidden_layer_size_b": [],
+            "name": "intent_classifier_tensorflow_embedding",
+            "classifier_file": "intent_classifier_tensorflow_embedding.ckpt",
+            "num_neg": 10,
+            "embed_dim": 10,
+            "C_emb": 0.8,
+            "mu_pos": 0.8,
+            "droprate": 0.2,
+            "mu_neg": -0.4,
+            "class": "rasa_nlu.classifiers.embedding_intent_classifier.EmbeddingIntentClassifier",
+            "use_max_sim_neg": true,
+            "intent_split_symbol": "_",
+            "num_hidden_layers_a": 2,
+            "intent_tokenization_flag": false,
+            "C2": 0.002,
+            "batch_size": 32,
+            "num_hidden_layers_b": 0,
+            "similarity_type": "cosine"
+        }
+    ],
+    "rasa_nlu_version": "0.12.3",
+    "language": "en",
+    "training_data": "training_data.json",
+    "trained_at": "20180708-001210"
+}
