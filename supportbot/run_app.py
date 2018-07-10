@@ -4,7 +4,7 @@ from rasa_core.interpreter import RasaNLUInterpreter
 from rasa_slack_connector import SlackInput
 
 
-nlu_interpreter = RasaNLUInterpreter('./models/current/nlu')
+nlu_interpreter = RasaNLUInterpreter('./models/nlu/default/supportnlu')
 agent = Agent.load('./models/current/dialogue', interpreter = nlu_interpreter)
 
 input_channel = SlackInput('', #app verification token
