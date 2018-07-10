@@ -13,7 +13,7 @@ def train_nlu(data, configs, model_dir):
 	
 def run_nlu():
 	interpreter = Interpreter.load('./models/nlu/default/supportnlu')
-	print(interpreter.parse("MySpace Password Expiry")['intent']['name'])
+	#print(interpreter.parse("MySpace Password Expiry")['intent']['name'])
 
 	dfOutput = pd.read_csv('SampleOutput.csv')
 	dfAns = pd.read_csv('Answers.csv')
@@ -25,12 +25,12 @@ def run_nlu():
 		#print(interpreter.parse(row1['Question']))
 		dfOutput.ix[index1,"Correct"]=(dictIntentMap.get(reply, "")==row1['Answers'])
 		dfOutput.ix[index1,"Reply"]=dictIntentMap.get(reply, "")
-	print(np.sum(dfOutput['Correct'])/dfOutput.shape[0])
+	print("Test Set Accuracy:{0:.2%}".format(np.sum(dfOutput['Correct'])/dfOutput.shape[0]))
 	dfOutput.to_csv('OutputReply.csv')
 
 def run_nlu_train():
 	interpreter = Interpreter.load('./models/nlu/default/supportnlu')
-	print(interpreter.parse("MySpace Password Expiry")['intent']['name'])
+	#print(interpreter.parse("MySpace Password Expiry")['intent']['name'])
 
 	dfInput = pd.read_csv('SampleInput.csv')
 	dfAns = pd.read_csv('Answers.csv')
@@ -46,10 +46,10 @@ def run_nlu_train():
 		#print(dictIntentMap[reply]==row1['Answers'])
 		dfInput.ix[index1,"Reply"]= dictIntentMap.get(reply, "")
 		dfInput.ix[index1,"Correct"]=(dictIntentMap.get(reply, "")==row1['Answers'])
-	print(np.sum(dfInput['Correct'])/dfInput.shape[0])
+	print("Train Set Accuracy:{0:.2%}".format(np.sum(dfInput['Correct'])/dfInput.shape[0]))
 	dfInput.to_csv('InputReply.csv')
 
 if __name__ == '__main__':
-	train_nlu('./data/nlu.md', 'config3.yaml', './models/nlu')
+	#train_nlu('./data/nlu.md', 'config3.yaml', './models/nlu')
 	run_nlu()
 	run_nlu_train()
