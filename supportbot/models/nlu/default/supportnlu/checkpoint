@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\kaggle\\TechgigChatBot\\RASANLU\\gstfaqbot\\examples\\supportbot\\./models/nlu\\default\\supportnlu\\intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "C:\\kaggle\\TechgigChatBot\\RASANLU\\gstfaqbot\\examples\\supportbot\\./models/nlu\\default\\supportnlu\\intent_classifier_tensorflow_embedding.ckpt"
