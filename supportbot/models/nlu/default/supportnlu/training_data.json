@@ -1,247 +1,247 @@
 {
   "rasa_nlu_data": {
-    "entity_synonyms": [],
     "regex_features": [],
+    "entity_synonyms": [],
     "common_examples": [
       {
-        "text": "hey",
-        "intent": "greet"
+        "intent": "greet",
+        "text": "hey"
       },
       {
-        "text": "hello",
-        "intent": "greet"
+        "intent": "greet",
+        "text": "hello"
       },
       {
-        "text": "hi",
-        "intent": "greet"
+        "intent": "greet",
+        "text": "hi"
       },
       {
-        "text": "hello there",
-        "intent": "greet"
+        "intent": "greet",
+        "text": "hello there"
       },
       {
-        "text": "good morning",
-        "intent": "greet"
+        "intent": "greet",
+        "text": "good morning"
       },
       {
-        "text": "good evening",
-        "intent": "greet"
+        "intent": "greet",
+        "text": "good evening"
       },
       {
-        "text": "moin",
-        "intent": "greet"
+        "intent": "greet",
+        "text": "moin"
       },
       {
-        "text": "hey there",
-        "intent": "greet"
+        "intent": "greet",
+        "text": "hey there"
       },
       {
-        "text": "let's go",
-        "intent": "greet"
+        "intent": "greet",
+        "text": "let's go"
       },
       {
-        "text": "hey dude",
-        "intent": "greet"
+        "intent": "greet",
+        "text": "hey dude"
       },
       {
-        "text": "goodmorning",
-        "intent": "greet"
+        "intent": "greet",
+        "text": "goodmorning"
       },
       {
-        "text": "goodevening",
-        "intent": "greet"
+        "intent": "greet",
+        "text": "goodevening"
       },
       {
-        "text": "good afternoon",
-        "intent": "greet"
+        "intent": "greet",
+        "text": "good afternoon"
       },
       {
-        "text": "cu",
-        "intent": "goodbye"
+        "intent": "goodbye",
+        "text": "cu"
       },
       {
-        "text": "good by",
-        "intent": "goodbye"
+        "intent": "goodbye",
+        "text": "good by"
       },
       {
-        "text": "cee you later",
-        "intent": "goodbye"
+        "intent": "goodbye",
+        "text": "cee you later"
       },
       {
-        "text": "good night",
-        "intent": "goodbye"
+        "intent": "goodbye",
+        "text": "good night"
       },
       {
-        "text": "good afternoon",
-        "intent": "goodbye"
+        "intent": "goodbye",
+        "text": "good afternoon"
       },
       {
-        "text": "bye",
-        "intent": "goodbye"
+        "intent": "goodbye",
+        "text": "bye"
       },
       {
-        "text": "goodbye",
-        "intent": "goodbye"
+        "intent": "goodbye",
+        "text": "goodbye"
       },
       {
-        "text": "have a nice day",
-        "intent": "goodbye"
+        "intent": "goodbye",
+        "text": "have a nice day"
       },
       {
-        "text": "see you around",
-        "intent": "goodbye"
+        "intent": "goodbye",
+        "text": "see you around"
       },
       {
-        "text": "bye bye",
-        "intent": "goodbye"
+        "intent": "goodbye",
+        "text": "bye bye"
       },
       {
-        "text": "see you later",
-        "intent": "goodbye"
+        "intent": "goodbye",
+        "text": "see you later"
       },
       {
-        "text": "server#11 got hanged and needed a restart",
-        "intent": "informa"
+        "intent": "informa",
+        "text": "server#11 got hanged and needed a restart"
       },
       {
-        "text": "Login Page not opening",
-        "intent": "informa"
+        "intent": "informa",
+        "text": "Login Page not opening"
       },
       {
-        "text": "My Space QA application is down",
-        "intent": "informa"
+        "intent": "informa",
+        "text": "My Space QA application is down"
       },
       {
-        "text": "Login Page is not getting displayed",
-        "intent": "informa"
+        "intent": "informa",
+        "text": "Login Page is not getting displayed"
       },
       {
-        "text": "MySpace Password Expiry",
-        "intent": "informb"
+        "intent": "informb",
+        "text": "MySpace Password Expiry"
       },
       {
-        "text": "Login credentials are not working.",
-        "intent": "informb"
+        "intent": "informb",
+        "text": "Login credentials are not working."
       },
       {
-        "text": "Forgot the password, can you please reset the password for me.",
-        "intent": "informb"
+        "intent": "informb",
+        "text": "Forgot the password, can you please reset the password for me."
       },
       {
-        "text": "Password expired.",
-        "intent": "informb"
+        "intent": "informb",
+        "text": "Password expired."
       },
       {
-        "text": "FW: Myspace Login Issue-- Ania",
-        "intent": "informb"
+        "intent": "informb",
+        "text": "FW: Myspace Login Issue-- Ania"
       },
       {
-        "text": "Login credentials are not working, says username or password wrong.",
-        "intent": "informc"
+        "intent": "informc",
+        "text": "Login credentials are not working, says username or password wrong."
       },
       {
-        "text": "Account got locked, because of 3 wrong attempts os password. Could you please reset the password",
-        "intent": "informc"
+        "intent": "informc",
+        "text": "Account got locked, because of 3 wrong attempts os password. Could you please reset the password"
       },
       {
-        "text": "Request to create login credentials for Mr. Koti",
-        "intent": "informc"
+        "intent": "informc",
+        "text": "Request to create login credentials for Mr. Koti"
       },
       {
-        "text": "Account locked. Not able to login",
-        "intent": "informc"
+        "intent": "informc",
+        "text": "Account locked. Not able to login"
       },
       {
-        "text": "Request to create login credentials for Dr. Hasan",
-        "intent": "informc"
+        "intent": "informc",
+        "text": "Request to create login credentials for Dr. Hasan"
       },
       {
-        "text": "Re: Unable to access outlook and myspace [user id: sdash]",
-        "intent": "informc"
+        "intent": "informc",
+        "text": "Re: Unable to access outlook and myspace [user id: sdash]"
       },
       {
-        "text": "Linux VM for Azuba project",
-        "intent": "informc"
+        "intent": "informc",
+        "text": "Linux VM for Azuba project"
       },
       {
-        "text": "Create new account and share the username and password",
-        "intent": "informd"
+        "intent": "informd",
+        "text": "Create new account and share the username and password"
       },
       {
-        "text": "New Account is needed for a new joinee.",
-        "intent": "informd"
+        "intent": "informd",
+        "text": "New Account is needed for a new joinee."
       },
       {
-        "text": "Wifi access needed.",
-        "intent": "informe"
+        "intent": "informe",
+        "text": "Wifi access needed."
       },
       {
-        "text": "My Internet is not working",
-        "intent": "informe"
+        "intent": "informe",
+        "text": "My Internet is not working"
       },
       {
-        "text": "Need Ethernet access",
-        "intent": "informe"
+        "intent": "informe",
+        "text": "Need Ethernet access"
       },
       {
-        "text": "Facing network/internet issue with wifi xwq090",
-        "intent": "informe"
+        "intent": "informe",
+        "text": "Facing network/internet issue with wifi xwq090"
       },
       {
-        "text": "Unable to connect to internet using wifi network inn009",
-        "intent": "informe"
+        "intent": "informe",
+        "text": "Unable to connect to internet using wifi network inn009"
       },
       {
-        "text": "Needs permission wifi access to laptop",
-        "intent": "informe"
+        "intent": "informe",
+        "text": "Needs permission wifi access to laptop"
       },
       {
-        "text": "LAN not working in a VM",
-        "intent": "informe"
+        "intent": "informe",
+        "text": "LAN not working in a VM"
       },
       {
-        "text": "Unable to connect to Internet",
-        "intent": "informe"
+        "intent": "informe",
+        "text": "Unable to connect to Internet"
       },
       {
-        "text": "How do I delete Internet cookies?",
-        "intent": "informf"
+        "intent": "informf",
+        "text": "How do I delete Internet cookies?"
       },
       {
-        "text": "I am unable to send or receive email?",
-        "intent": "informg"
+        "intent": "informg",
+        "text": "I am unable to send or receive email?"
       },
       {
-        "text": "Computer is not getting switched on",
-        "intent": "informh"
+        "intent": "informh",
+        "text": "Computer is not getting switched on"
       },
       {
-        "text": "My Computer doesn?t power up",
-        "intent": "informh"
+        "intent": "informh",
+        "text": "My Computer doesn?t power up"
       },
       {
-        "text": "System behaving strangely, blue screen is appearing in middle",
-        "intent": "informh"
+        "intent": "informh",
+        "text": "System behaving strangely, blue screen is appearing in middle"
       },
       {
-        "text": "Desktop not working",
-        "intent": "informh"
+        "intent": "informh",
+        "text": "Desktop not working"
       },
       {
-        "text": "System showing blue screen on startup",
-        "intent": "informh"
+        "intent": "informh",
+        "text": "System showing blue screen on startup"
       },
       {
-        "text": "System hangs with blue screen on startup",
-        "intent": "informh"
+        "intent": "informh",
+        "text": "System hangs with blue screen on startup"
       },
       {
-        "text": "No sound is heard from audio (music) CDs",
-        "intent": "informi"
+        "intent": "informi",
+        "text": "No sound is heard from audio (music) CDs"
       },
       {
-        "text": "The computer has no sound",
-        "intent": "informi"
+        "intent": "informi",
+        "text": "The computer has no sound"
       }
     ]
   }
