@@ -23,7 +23,7 @@ bayesian-optimization==0.5.0
 bcolz==1.1.2
 beautifulsoup4==4.5.3
 blaze==0.10.1
-bleach==1.5.0
+bleach==3.1.4
 blosc==1.5.0
 bloscpack==0.11.0
 bokeh==0.12.4
