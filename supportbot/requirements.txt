@@ -278,7 +278,7 @@ PythonQwt==0.5.5
 pyttsx==1.1
 pytz==2016.10
 PyWavelets==0.5.1
-pywin32==220.1
+pywin32==301
 pywinpty==0.5.4
 PyYAML==3.12
 pyzmq==16.0.2
