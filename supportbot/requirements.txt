@@ -199,7 +199,7 @@ oct2py==3.9.2
 octave-kernel==0.25.1
 odo==0.5.0
 olefile==0.44
-opencv-python==3.2.0
+opencv-python==3.4.7.28
 packaging==16.8
 pandas==0.20.2
 pandas-datareader==0.3.0.post0
