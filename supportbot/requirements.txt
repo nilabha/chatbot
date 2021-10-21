@@ -16,7 +16,7 @@ async-timeout==2.0.1
 asyncio==3.4.3
 attrs==17.4.0
 Automat==0.7.0
-Babel==2.3.4
+Babel==2.9.1
 backports-abc==0.5
 baresql==0.7.4
 bayesian-optimization==0.5.0
