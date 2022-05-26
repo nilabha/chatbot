@@ -364,7 +364,7 @@ Twisted==18.4.0
 twitter==1.17.1
 typing==3.6.4
 tzlocal==1.5.1
-ujson==1.35
+ujson==5.2.0
 Unidecode==1.0.22
 urllib3==1.23
 vega==0.4.4
