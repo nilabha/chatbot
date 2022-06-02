@@ -104,7 +104,7 @@ h5py==2.6.0
 heamy==0.0.7
 HeapDict==1.0.0
 holoviews==1.7.dev6
-html5lib==0.9999999
+html5lib==0.99999999
 humanfriendly==4.12.1
 husl==4.0.3
 hyperlink==18.0.0
