@@ -193,7 +193,7 @@ notebook==5.7.2
 numba==0.31.0
 numdifftools==0.9.20
 numexpr==2.6.2
-numpy==1.13.1+mkl
+numpy==1.21.0
 numpydoc==0.6.0
 oct2py==3.9.2
 octave-kernel==0.25.1
