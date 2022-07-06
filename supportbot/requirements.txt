@@ -156,7 +156,7 @@ livelossplot==0.1.7
 llvmlite==0.16.0
 lmfit==0.9.5
 locket==0.2.0
-lxml==3.7.3
+lxml==4.9.1
 magnitude==0.9.4
 Markdown==2.6.8
 MarkupSafe==1.0
