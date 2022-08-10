@@ -180,7 +180,7 @@ multiprocess==0.70.5
 murmurhash==0.28.0
 mxnet==0.7.0
 mysql-connector-python==2.0.4
-nbconvert==5.3.1
+nbconvert==6.3.0
 nbconvert-reportlab==0.1
 nbdime==0.2.0
 nbformat==4.4.0
