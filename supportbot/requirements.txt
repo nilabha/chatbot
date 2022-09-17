@@ -171,7 +171,6 @@ mlens==0.1.6
 monotonic==1.2
 movie-info-downloader==0.0.4
 mpld3==0.3
-mpmath==0.19
 msgpack-numpy==0.4.1
 msgpack-python==0.4.8
 multidict==4.2.0
