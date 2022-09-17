@@ -122,7 +122,7 @@ incremental==17.5.0
 ipykernel==4.6.1
 ipyleaflet==0.3.0
 ipyparallel==6.0.2
-ipython==6.2.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipython-sql==0.3.8
 ipywidgets==7.0.1
