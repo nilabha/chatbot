@@ -182,7 +182,7 @@ mxnet==0.7.0
 mysql-connector-python==2.0.4
 nbconvert==6.5.1
 nbconvert-reportlab==0.1
-nbdime==0.2.0
+nbdime==1.1.1
 nbformat==4.4.0
 nbsphinx==0.2.13
 netCDF4==1.2.7
