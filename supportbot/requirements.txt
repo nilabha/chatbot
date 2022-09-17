@@ -228,7 +228,7 @@ preshed==1.0.0
 prettytable==0.7.2
 prompt-toolkit==1.0.15
 prophet==0.1.1
-protobuf==3.6.0
+protobuf==3.15.0
 psutil==5.1.3
 ptpython==0.36
 ptyprocess==0.5.1
