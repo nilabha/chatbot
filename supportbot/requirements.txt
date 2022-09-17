@@ -233,7 +233,7 @@ psutil==5.6.6
 ptpython==0.36
 ptyprocess==0.5.1
 PuLP==1.6.5
-py==1.4.32
+py==1.10.0
 py4j==0.10.4
 pyasn1==0.4.3
 pyasn1-modules==0.2.1
