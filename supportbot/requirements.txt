@@ -244,7 +244,7 @@ pycparser==2.17
 pydotplus==2.0.2
 pyflakes==1.5.0
 pyflux==0.4.14
-Pygments==2.2.0
+Pygments==2.7.4
 PyJWT==2.4.0
 pykwalify==1.6.0
 pylearn2==0.1.dev0
