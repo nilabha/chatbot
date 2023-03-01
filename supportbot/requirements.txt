@@ -177,7 +177,7 @@ multidict==4.2.0
 multipledispatch==0.4.9
 multiprocess==0.70.5
 murmurhash==0.28.0
-mxnet==0.7.0
+mxnet==1.9.1
 mysql-connector-python==2.0.4
 nbconvert==6.5.1
 nbconvert-reportlab==0.1
